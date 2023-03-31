@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <Adafruit_SSD1306.h>
-#include "Login.h"
-#include "Logo.h"
+#include "../lib/Login.h"
+#include "../lib/Logo.h"
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
